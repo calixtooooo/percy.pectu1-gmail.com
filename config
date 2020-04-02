@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.wizecka.androidexample"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Wizecka</name>
+
+  <description>
+      Katuwaan lang. From MNLOVES
+  </description>
+
+  <author href="https://twitter.com/imaginesheki" email="percy.pectu1@gmail.com">
+      ImagineSheki
+  </author>
+  
+  <icon src="icon.png" />
+
+</widget>
